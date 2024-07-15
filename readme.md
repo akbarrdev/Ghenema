@@ -1,6 +1,6 @@
 # GTPS Knowledge Base for Ghenema AI Bot
 
-Welcome to the Growtopia Private Server (GTPS) Knowledge Base repository! This project aims to collect and organize information about GTPS to create a comprehensive dataset for our AI bot, "GTPS Helper That Never Mad (Ghenema)".
+Welcome to the Growtopia Private Server (GTPS) Knowledge Base repository! This project aims to collect and organize information about GTPS to create a comprehensive dataset for our AI bot, "GTPS Helper That Never Mad" (Ghenema). [Try Ghenema in Nipon Community!](https://discord.gg/p8nN8J6tMz).
 
 ## About This Project
 
@@ -22,23 +22,7 @@ Ghenema AI bot is designed to address this issue by providing a friendly, patien
 
 ## How to Contribute
 
-We welcome contributions from anyone with knowledge about GTPS. Here's how you can help:
-
-1. Fork this repository
-2. Create a new branch for your contribution
-3. Add or edit content using the provided templates
-4. Submit a pull request
-
 For detailed instructions, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## Repository Structure
-
-- `/templates`: Contains template files for creating new entries
-- `/server-setup`: Information about setting up and configuring GTPS
-- `/gameplay`: Details about gameplay mechanics specific to GTPS
-- `/economy`: Information about in-game economy and item management
-- `/moderation`: Guidelines and tools for server moderation
-- `/troubleshooting`: Common issues and their solutions
 
 ## Ghenema AI Bot
 
@@ -58,6 +42,6 @@ We'd like to thank all the contributors who have shared their knowledge and help
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact the repository maintainers.
+If you have any questions or suggestions, please open an issue or join [Nipon Community](https://discord.gg/p8nN8J6tMz)
 
 Together, let's build a comprehensive knowledge base for GTPS and empower Ghenema to create a more supportive and informative community!

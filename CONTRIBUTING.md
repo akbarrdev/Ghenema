@@ -4,10 +4,11 @@ Thank you for your interest in contributing to our GTPS Knowledge Base! This doc
 
 ## How to Contribute
 
-1. Fork the repository
-2. Create a new branch for your contribution
-3. Make your changes
-4. Submit a pull request
+1. Fork this repository.
+2. Create an md file or use the template in the [template](template) folder.
+3. Add your knowledge to the [knowledge-base](knowledge-base) folder with a filename that matches the title of your knowledge.
+4. Before submitting, ensure you have followed the format and layout consistent with the template.
+5. Submit a pull request and wait for the maintainer's approval.
 
 ## Content Guidelines
 
@@ -23,16 +24,10 @@ When contributing content, please follow these guidelines:
 
 We provide templates to ensure consistency across contributions. Please use the appropriate template when adding new content:
 
-1. Go to the `/templates` directory
+1. Go to the [template](template) directory
 2. Copy the relevant template
 3. Create a new file in the appropriate directory
 4. Paste the template content and fill it out
-
-## Pull Request Process
-
-1. Ensure your content follows our guidelines and uses the provided templates
-2. Update the README.md if necessary (e.g., adding new categories)
-3. Submit your pull request with a clear title and description
 
 ## Code of Conduct
 
@@ -40,6 +35,6 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## Questions or Suggestions?
 
-If you have any questions or suggestions about contributing, please open an issue or contact the repository maintainers.
+If you have any questions or suggestions about contributing, please open an issue or [chat maintainers](https://discord.gg/p8nN8J6tMz) in discord.
 
 Thank you for helping improve the GTPS Knowledge Base and Ghenema AI Bot!
