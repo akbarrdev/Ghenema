@@ -7,8 +7,9 @@ Thank you for your interest in contributing to our GTPS Knowledge Base! This doc
 1. Fork this repository.
 2. Create an md file or use the template in the [template](template) folder.
 3. Add your knowledge to the [knowledge-base](knowledge-base) folder with a filename that matches the title of your knowledge.
-4. Before submitting, ensure you have followed the format and layout consistent with the template.
-5. Submit a pull request and wait for the maintainer's approval.
+4. Ensure the filename is in snake-case format (e.g., "my_contribution_title.md").
+5. Before submitting, ensure you have followed the format and layout consistent with the template.
+6. Submit a pull request and wait for the maintainer's approval.
 
 ## Content Guidelines
 
@@ -19,6 +20,17 @@ When contributing content, please follow these guidelines:
 3. Organize content logically
 4. Use proper formatting (Markdown)
 5. Include references or sources when applicable
+
+## Maintainer Rights
+
+Please note that the maintainers of this project reserve the right to edit, modify, or reject any contributions as they see fit. This includes, but is not limited to:
+
+1. Correcting grammatical or spelling errors
+2. Reformatting content to match the project's style guidelines
+3. Modifying content to improve clarity or accuracy
+4. Rejecting contributions that do not meet the project's standards or goals
+
+By submitting a contribution, you acknowledge and agree that the maintainers may make these changes to your submission. If you have concerns about potential edits, please discuss them with the maintainers before submitting your contribution.
 
 ## Using Templates
 
