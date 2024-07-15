@@ -50,3 +50,4 @@ Please note that this project is released with a Contributor Code of Conduct. By
 If you have any questions or suggestions about contributing, please open an issue or [chat maintainers](https://discord.gg/p8nN8J6tMz) in discord.
 
 Thank you for helping improve the GTPS Knowledge Base and Ghenema AI Bot!
+
