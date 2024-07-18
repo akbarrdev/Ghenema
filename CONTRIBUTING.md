@@ -41,6 +41,10 @@ We provide templates to ensure consistency across contributions. Please use the 
 3. Create a new file in the appropriate directory
 4. Paste the template content and fill it out
 
+## Content Revision
+
+We encourage continuous improvement and updates to the content. If you wish to revise knowledge that you have provided or that belongs to other contributors, please contact the maintainers in the [Discord Nipon Community](https://discord.gg/p8nN8J6tMz). The maintainers will review your revision request and assist with the content update process if necessary.
+
 ## Code of Conduct
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
@@ -50,4 +54,3 @@ Please note that this project is released with a Contributor Code of Conduct. By
 If you have any questions or suggestions about contributing, please open an issue or [chat maintainers](https://discord.gg/p8nN8J6tMz) in discord.
 
 Thank you for helping improve the GTPS Knowledge Base and Ghenema AI Bot!
-
